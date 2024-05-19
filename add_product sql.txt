@@ -1,0 +1,1 @@
+INSERT INTO `products` VALUES (4, 12, 'Navratri Collection: Yellow & Green Combination ', '0', 0, 'Good', 'GOOD', 3000, 2500, '2.jpg', 10, 1, 0, 'Navratri Collectiona', '', '', '2023-04-20 09:12:36');
